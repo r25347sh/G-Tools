@@ -4,6 +4,7 @@
     color: white;
   }
   h1{
-    border-bottom:yellow 3px solid
+    border-bottom:yellow 3px solid;
+    padding:5px;
   }
 }
